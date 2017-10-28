@@ -1,7 +1,10 @@
 class Dog
 end
-fido = dog.new
-fido #=>
+fido = Dog.new
+fido
 
-snoopy = dog.new
+snoopy = Dog.new
 snoopy
+
+lassie = Dog.new
+lassie
